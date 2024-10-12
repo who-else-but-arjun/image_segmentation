@@ -360,7 +360,7 @@ project/
   - Ensuring correspondence between training and validation sets.
 
 ## References
-- Dataset Link : [#https://www.kaggle.com/datasets/himanshusinghal19/ml-bootcamp-dataset]
+- Dataset Link : [https://www.kaggle.com/datasets/himanshusinghal19/ml-bootcamp-dataset]
 - Long, Jonathan, Evan Shelhamer, and Trevor Darrell. "Fully convolutional networks for semantic segmentation." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2015.
 - Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." *arXiv preprint arXiv:1409.1556* (2014).
 - Chen, Liang-Chieh, et al. "Semantic image segmentation with deep convolutional nets and fully connected CRFs." *arXiv preprint arXiv:1412.7062* (2014).
