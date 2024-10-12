@@ -100,7 +100,9 @@ There are 27 distinct classes representing various road elements. Each class is 
 | 24           | Vegetation               | 0.860                               |
 | 25           | Sky                      | 0.885                               |
 | 255          | Unlabeled                | NaN                                 |
+
 ![Model Framework](Model.png)
+
 ### Dataset Preprocessing
 
 Effective preprocessing is crucial for ensuring that the model receives high-quality input data. The preprocessing steps undertaken include data separation, normalization, resizing, and augmentation.
